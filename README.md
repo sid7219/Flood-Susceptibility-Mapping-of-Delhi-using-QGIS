@@ -168,14 +168,15 @@ The final flood susceptibility map classified Delhi into five categories:
 | 4 | High |
 | 5 | Very High |
 
-### Key Findings
+## 📊 Key Findings
 
-- Very High susceptibility zones are concentrated along the Yamuna floodplain.
-- Eastern Delhi exhibits the highest flood vulnerability.
-- Central Delhi falls under moderate susceptibility zones.
-- Southern and western Delhi show comparatively lower flood susceptibility.
-- River distance and elevation were identified as the most influential flood conditioning factors.
-
+- Areas located along the Yamuna River exhibit **High to Very High flood susceptibility** due to low elevation and close proximity to the river.
+- **River distance (30%)** and **elevation (25%)** were identified as the most influential flood conditioning factors.
+- Eastern Delhi shows higher flood vulnerability, while southern and western regions generally exhibit lower susceptibility.
+- Built-up areas demonstrate increased flood risk because impervious surfaces reduce infiltration and increase surface runoff.
+- Low-slope regions are more prone to flooding due to slower drainage and water accumulation.
+- The generated flood susceptibility pattern aligns with known flood-prone zones along the Yamuna floodplain.
+- The final map can support **urban planning, disaster management, and flood mitigation strategies** in Delhi.
 ---
 
 ## 🛠️ Software Used
